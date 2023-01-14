@@ -1,0 +1,3 @@
+[submodule "akatsuki-pp-ffi"]
+	path = akatsuki-pp-ffi
+	url = https://github.com/osuAkatsuki/akatsuki-pp-ffi
